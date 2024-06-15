@@ -6,19 +6,17 @@ Contains paradigms for Japanese verbs
 
 ## Source
 
-Seed verbs were collected from N5 (most basic) level of the Japanese Language Proficiency Test (JLPT) and lexical honorifics, as cited in [Hirabayashi and Hama (1988)][keigo]. Inflected forms were semi-mechanically generated with the rule-based verb inflection tool ([kamiya-codec][kamiya-codec]).
+Seed verbs for Japanese Unimorph were collected from N5 (most basic) level of the Japanese Language Proficiency Test (JLPT) and lexical honorifics, as cited in [Hirabayashi and Hama (1988)][keigo]. Inflected forms were semi-automatically generated with the rule-based verb inflection tool ([kamiya-codec][kamiya-codec]).
 
 
-
-## Author
+## Authors
 
 [Kosuke Matsuzaki][matsu], [Masaya Taniguchi][tani], [Kentaro Inui][Inui], [Keisuke Sakaguchi][Sakaguchi]
 
 
-## Related Works
+## Related Work
 
 [J-UniMorph][j-uni]
-
 
 
 ## License
